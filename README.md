@@ -7,4 +7,4 @@ GSAP & ScrollToPlugin</br>
 Swiper</br>
 Youtube API</br>
 ScrollMagic</br>
-Lodash 등
+Lodash
