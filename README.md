@@ -1,7 +1,7 @@
 # Starbucks
 https://kind-tereshkova-b24f85.netlify.app
 
-# 사용 프레임워크
+# 라이브러리
 Google Material Icons</br>
 GSAP & ScrollToPlugin</br>
 Swiper</br>
